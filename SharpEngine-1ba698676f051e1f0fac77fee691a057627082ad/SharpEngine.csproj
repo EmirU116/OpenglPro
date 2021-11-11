@@ -7,7 +7,7 @@
   
   //Adding Glfw-net to the project
   <ItemGroup>
-    <PackageReference include="glfw-net" Version="3.3.5" />
+    <PackageReference include="glfw-net" Version="3.3.1" />
   </ItemGroup>
 
 </Project>
