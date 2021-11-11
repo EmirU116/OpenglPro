@@ -5,7 +5,6 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
   
-  //Adding Glfw-net to the project
   <ItemGroup>
     <PackageReference include="glfw-net" Version="3.3.1" />
   </ItemGroup>
