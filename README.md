@@ -1,2 +1,0 @@
-# OpenglPro
- OpenGL Project
